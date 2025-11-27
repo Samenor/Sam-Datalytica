@@ -1,7 +1,7 @@
 <h1 align="center">Hola👋, Soy Samuel Ortiz</h1>
 <h3 align="center">Soy un Data Analyst que me interesa la automatización. Estoy dispuesto a seguir aprendiendo</h3>
 
-- 📝 I regularly write articles on [www.datalytica.es](www.datalytica.es)
+- 📝 I regularly write articles on [https://www.datalytica.es/](https://www.datalytica.es/)
 
 - 💬 Ask me about **Power Bi, Python, SQL, PowerQuery, Dax**
 
